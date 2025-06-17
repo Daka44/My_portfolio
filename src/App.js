@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Navbar from './components/navbar';
 
@@ -63,11 +63,6 @@ function App() {
         </div>
       </section>
 
-      {/* <section id="projects" className="section">
-        <h2>Projects</h2>
-        <div className="projects-grid">
-        </div>
-      </section> */}
       <section id="contact" className="section">
         <h2>Contact</h2>
         <div className="contact-container">

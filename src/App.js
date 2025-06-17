@@ -14,7 +14,7 @@ function App() {
         <h2 className="section-title">About Me</h2>
         <div className="skills-container">
           <div className="skills-section">
-            <h3 className="skill-level proficient-title">좀 할 줄 압니다! 💪</h3>
+            <h3 className="skill-level proficient-title">좀 할 줄 압니다!</h3>
             <div className="skills-grid proficient">
               <div className="skill-item">
                 <i className="devicon-javascript-plain colored"></i>
@@ -36,7 +36,7 @@ function App() {
           </div>
           
           <div className="skills-section">
-            <h3 className="skill-level familiar-title">할 줄 알걸요? 🤔</h3>
+            <h3 className="skill-level familiar-title">할 줄 알걸요?</h3>
             <div className="skills-grid familiar">
               <div className="skill-item">
                 <i className="devicon-react-original colored"></i>
